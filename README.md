@@ -1,5 +1,5 @@
 # AZYPC0007
-Playing card deck faces series non-fungible asset (NFA) by Azylem
+Playing card deck series non-fungible asset (NFA) by Azylem
 
 Copyright 2022 Azylem. All rights reserved.
 
